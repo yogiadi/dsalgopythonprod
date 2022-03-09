@@ -2,11 +2,12 @@
 
 <details>
   <summary>Binary Search</summary>
-  1. Define binarysearch func
-  2. Run till high >= low.
-  3. if element is present at mid.
-  4. if arr[mid] > x then call binary search func (arr,low, mid -1, x)
-  5. else call binary search func (arr, mid+1, high,x)
+	
+* Define binarysearch func
+* Run till high >= low.
+* if element is present at mid.
+* if arr[mid] > x then call binary search func (arr,low, mid -1, x)
+* else call binary search func (arr, mid+1, high,x)
   
 </details>
 
