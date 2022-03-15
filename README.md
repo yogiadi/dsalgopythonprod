@@ -26,3 +26,5 @@ def binary_search(arr, low, high, x):
 		return -1
 
 ```
+
+
