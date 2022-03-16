@@ -27,4 +27,13 @@ def binary_search(arr, low, high, x):
 
 ```
 
+## Merge Sort
+
+<details>
+	<summary> Merge Sort </summary>
+* Merge step - merge two sorted arrays
+* Another function to call recursively
+
+</details>
+
 
