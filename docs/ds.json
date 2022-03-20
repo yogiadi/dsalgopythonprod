@@ -1,0 +1,71 @@
+{
+    "name": "DataStructures",
+    "children": [
+      {
+        "name": "Array",
+        "children":[
+          {
+            "name" : "Sorting",
+            "children" : [
+              {"name": "Merge Sort",
+              "children" : [
+                {
+                "name" : "Merge Functions"
+                },
+                {
+                "name" : "Recursive Function"
+                }
+              ]},
+              {"name": "Heap Sort" },
+              {"name": "Quick Sort" }
+            ]
+          },
+          {
+          "name":"Divide and Conquer"
+          }
+        ]
+      },
+      {
+        "name": "String"
+      },
+      {
+        "name": "Linked List"
+      },
+      {
+        "name": "Stack/Queue"
+      },
+      {
+        "name": "Tree",
+        "children": [
+          {
+            "name" : "Binary Tree"
+          },
+          {
+            "name" : "Binary Search Tree",
+            "children" : [
+              {
+                "name" : "Balanced binary search tree",
+                "children" : [
+                  {
+                    "name" : "AVL Tree"
+                  },
+                  {
+                    "name" : "Red Black Tree"
+                  }
+                ]
+              },
+              {
+                "name" : "Operations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Graph"
+      },
+      {
+        "name": "Heap(Priority Queue)"
+      },
+    ]
+  }
