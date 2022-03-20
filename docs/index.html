@@ -26,78 +26,9 @@
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
-var treeData =
-  {
-    "name": "DataStructures",
-    "children": [
-      {
-        "name": "Array",
-        "children":[
-          {
-            "name" : "Sorting",
-            "children" : [
-              {"name": "Merge Sort",
-              "children" : [
-                {
-                "name" : "Merge Functions"
-                },
-                {
-                "name" : "Recursive Function"
-                }
-              ]},
-              {"name": "Heap Sort" },
-              {"name": "Quick Sort" }
-            ]
-          },
-          {
-          "name":"Divide and Conquer"
-          }
-        ]
-      },
-      {
-        "name": "String"
-      },
-      {
-        "name": "Linked List"
-      },
-      {
-        "name": "Stack/Queue"
-      },
-      {
-        "name": "Tree",
-        "children": [
-          {
-            "name" : "Binary Tree"
-          },
-          {
-            "name" : "Binary Search Tree",
-            "children" : [
-              {
-                "name" : "Balanced binary search tree",
-                "children" : [
-                  {
-                    "name" : "AVL Tree"
-                  },
-                  {
-                    "name" : "Red Black Tree"
-                  }
-                ]
-              },
-              {
-                "name" : "Operations"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Graph"
-      },
-      {
-        "name": "Heap(Priority Queue)"
-      },
-    ]
-  };
+let reader = new FileReader();
+// reader.readAsText('ds.json');
+var treeData = reader.readAsDataURL('ds.json');  ;
 
 // Set the dimensions and margins of the diagram
 var margin = {top: 20, right: 90, bottom: 30, left: 90},
