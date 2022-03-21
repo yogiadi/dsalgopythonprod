@@ -1,4 +1,4 @@
-data = '{
+data = '[{
     "name": "DataStructures",
     "children": [
       {
@@ -68,4 +68,4 @@ data = '{
         "name": "Heap(Priority Queue)"
       },
     ]
-  }'
+  }]'
