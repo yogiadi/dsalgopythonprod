@@ -24,11 +24,11 @@
 
 <!-- load the d3.js library -->
 <script src="https://d3js.org/d3.v4.min.js"></script>
+<script type="text/javascript" src="ds.json"></script>  
 <script>
 
-let reader = new FileReader();
-// reader.readAsText('ds.json');
-var treeData = reader.readAsDataURL('ds.json');  ;
+
+var treeData = JSON.parse(data);
 
 // Set the dimensions and margins of the diagram
 var margin = {top: 20, right: 90, bottom: 30, left: 90},
