@@ -13,6 +13,8 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
     * Linked List
     * Dynamic Programming
     * Binary Search
+    * Prefix Sum
+    * Greedy
 * String
 * Linked List
 * Stack/Queue
