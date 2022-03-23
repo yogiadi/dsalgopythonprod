@@ -37,6 +37,10 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
         * Backtracking
     * Binary Tree
         * Binary Search Tree
+            * Operations
+                * Traversal
+                    * Breadth First search
+                    * Depth First search
             * Balanced Binary Search Tree
                 * AVL
 * Graph
@@ -44,3 +48,5 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
     * Breadth first search
     * Hash table
 * Heap(Priority Queue)
+    * Divide and conquer
+    * Hash table
