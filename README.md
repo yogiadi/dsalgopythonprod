@@ -27,10 +27,20 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
     * Two pointers
     * Hash table
 * Stack/Queue
+    * Recursion
+    * 
 * Tree
+    * Operations
+        * Depth-first search
+        * Breadth-first search 
+        * Divide and conquer
+        * Backtracking
     * Binary Tree
         * Binary Search Tree
             * Balanced Binary Search Tree
                 * AVL
 * Graph
+    * Depth first search
+    * Breadth first search
+    * Hash table
 * Heap(Priority Queue)
