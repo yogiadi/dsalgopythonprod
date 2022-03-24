@@ -18,10 +18,13 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
     * Math
     * Matrix
     * Simulation
+    * Divide and Conquer
 * String
     * Two pointers
     * Hash Table
     * Dynamic Programming
+    * Queue
+    * Counting
 * Linked List
     * Recursion
     * Two pointers
@@ -41,6 +44,9 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
                 * Traversal
                     * Breadth First search
                     * Depth First search
+                        * Pre Order traversal
+                        * Post order traversal
+                        * In order traversal
             * Balanced Binary Search Tree
                 * AVL
 * Graph
