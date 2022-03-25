@@ -19,6 +19,7 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
     * Matrix
     * Simulation
     * Divide and Conquer
+    * Depth First Search
 * String
     * Two pointers
     * Hash Table
