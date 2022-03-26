@@ -20,6 +20,7 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
     * Simulation
     * Divide and Conquer
     * Depth First Search
+    * Sorting
 * String
     * Two pointers
     * Hash Table
@@ -32,7 +33,8 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
     * Hash table
 * Stack/Queue
     * Recursion
-    * 
+    * Design
+    * String
 * Tree
     * Operations
         * Depth-first search
@@ -44,6 +46,7 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
             * Operations
                 * Traversal
                     * Breadth First search
+                        * Level Order Traversal
                     * Depth First search
                         * Pre Order traversal
                         * Post order traversal
