@@ -22,7 +22,9 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
         * Maximum Sub Array
             * max_cross_sub_array - base function
                 * Calculate left sum
+                    * for loop from mid to low
                 * Calculate right sum
+                    * For loop from mid to high
             * max_sub_array - main function to call max_cross_sub_array recursively
     * Depth First Search
     * Sorting
