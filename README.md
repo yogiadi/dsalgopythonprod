@@ -21,6 +21,8 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
     * Divide and Conquer
         * Maximum Sub Array
             * max_cross_sub_array - base function
+                * Calculate left sum
+                * Calculate right sum
             * max_sub_array - main function to call max_cross_sub_array recursively
     * Depth First Search
     * Sorting
