@@ -9,6 +9,7 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
         * Quick Sort
     * Bit Manipulation
     * Hash table
+        * Two Sum
     * Two pointers
     * Linked List
     * Dynamic Programming
