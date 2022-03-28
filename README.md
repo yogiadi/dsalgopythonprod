@@ -29,6 +29,7 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
             * max_sub_array - main function to call max_cross_sub_array recursively
     * Depth First Search
     * Sorting
+    * Backtracking
 * String
     * Two pointers
     * Hash Table
