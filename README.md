@@ -11,6 +11,13 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
     * Hash table
         * Two Sum
     * Two pointers
+        * Three Sum
+            * Sort
+            * For loop
+                * While loop
+                * if current == 0
+                * increase left pointer
+                * decrease right pointer
     * Linked List
     * Dynamic Programming
     * Binary Search
