@@ -18,6 +18,15 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
                 * if current == 0
                 * increase left pointer
                 * decrease right pointer
+        * Sort Colors
+            * Three variables for 0(start) , 2(end) and (i) for usual iteration.
+            * while loop
+                * in case of 0
+                    * Swap i and start and then increment both.
+                * in case of 2
+                    * Swap end with i and then decrement end.
+                * in case of 1
+                    * Increment only i.
     * Linked List
     * Dynamic Programming
     * Binary Search
