@@ -98,3 +98,11 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
 
 * Binary Search
     * Rotated sorted array
+        * Define start , end
+        * initiate while loop
+            * define mid
+            * Condition to return mid if target is found
+            * if start is less than mid
+                * if target is greater than mid or less than start then set start as mid + 1 else set end as mid - 1
+            * if start is not less than mid
+                * if target is less than mid or greater than start then set end as mid - 1 else set start as mid + 1
