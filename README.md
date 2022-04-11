@@ -81,6 +81,9 @@ https://bl.ocks.org/d3noob/43a860bc0024792f8803bba8ca0d5ecd
                         * Level Order Traversal
                     * Depth First search
                         * Pre Order traversal
+                            * root
+                            * left
+                            * right
                         * Post order traversal
                         * In order traversal
             * Balanced Binary Search Tree
